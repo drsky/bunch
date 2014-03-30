@@ -1,4 +1,5 @@
 import platform
+import sys
 
 _IS_PYTHON_3 = (sys.version_info >= (3, 0, 0))
 
